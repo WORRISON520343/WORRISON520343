@@ -4,7 +4,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Personal+Introduction;Welcome+to+my+kingdom+:D!)](https://git.io/typing-svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WORRISON520343&show_icons=true&theme=tokyonight)<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WORRISON520343&show_icons=true&theme=tokyonight)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WORRISON520343&layout=compact&langs_count=6)
 
