@@ -2,7 +2,6 @@
 
 ## Damn M3 gangangshit bro,get in right now! 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Personal+Introduction;Welcome+to+my+kingdom+:D!)](https://git.io/typing-svg)
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WORRISON520343&show_icons=true&theme=tokyonight)
